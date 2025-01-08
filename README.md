@@ -1,2 +1,2 @@
-# Laminar-FLow-Simulation
+# Laminar-Flow-Simulation
 CTFD lab
